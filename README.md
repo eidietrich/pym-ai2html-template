@@ -9,7 +9,7 @@ Initial setup:
 - If using Wordpress website, install [Pym.js Embeds plugin](https://wordpress.org/plugins/pym-shortcode/).
 
 Project workflow:
-1. Clone this repository, e.g. `git clone [repo URL] project-name`
+1. Clone this repository: `git clone https://github.com/eidietrich/pym-ai2html-template.git <project-name>`
 2. Open `project-artboards.ai` in Adobe Illustrator, save as `project-name.ai`, create graphics
 3. Export via ai2html script
     - In ai2html-settings text block, adjust `demo-output` in `html_output_path: ./demo-output/` to desired output folder name
